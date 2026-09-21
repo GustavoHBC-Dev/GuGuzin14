@@ -104,7 +104,7 @@
 </a>
 
 <a href="https://github.com/GustavoHBC-Dev">
-<img src="https://img.shields.io/badge/GitHub-GustavoHBC-Dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-GustavoHBCDev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
